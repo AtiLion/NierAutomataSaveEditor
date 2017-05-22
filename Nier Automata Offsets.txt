@@ -1,0 +1,19 @@
+SAVE DATA:
+Money: 00030548 + 24 -> 00030548 + 27
+EXP: 00038700 + 1C -> 00038700 + 1F
+Time played: 00000000 + 24 -> 00000000 + 26
+Name: 00000000 + 34 -> 00000038 + 1A
+
+GameData header: 00000000 + 04 -> 00000000 + 0F
+
+Item Database: 00030548 + 28 -> 00031D20 + 2D
+Item Offset: 00 00 00
+Item Structure: ID ID 00 00 00 00 07 AMOUNT AMOUNT
+Item Ending: FF FF FF FF FF FF
+Item Empty: FF FF 00 00 00 00 FF FF FF
+Item Empty Offset: FF FF FF
+
+Size: 235980 bytes
+
+GAME DATA:
+SaveData header: 00000000 + 00 -> 00000000 + 0B
